@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/rpc"
 
-	"github.com/JCsleiman/rcp-server/service"
+	"https://github.com/JCSleiman/rpc-server/tree/master/Service"
 )
 
 func main() {
